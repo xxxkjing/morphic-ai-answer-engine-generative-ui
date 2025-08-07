@@ -1,8 +1,33 @@
 {
   "models": [
     {
+    "id": "deepseek/deepseek-chat-v3-0324:free",
+    "name": "Deepseek V3 0324",
+    "provider": "OpenAI Compatible",
+    "providerId": "openai-compatible",
+    "enabled": true,
+    "toolCallType": "manual"
+  },
+   {
+    "id": "google/gemini-2.0-flash-exp:free",
+    "name": "Gemini 2.0 Flash Experimental",
+    "provider": "OpenAI Compatible",
+    "providerId": "openai-compatible",
+    "enabled": true,
+    "toolCallType": "manual"
+  },
+   {
     "id": "moonshotai/kimi-k2:free",
     "name": "Kimi K2",
+    "provider": "OpenAI Compatible",
+    "providerId": "openai-compatible",
+    "enabled": true,
+    "toolCallType": "manual"
+  },
+    "models": [
+    {
+    "id": "qwen/qwen3-235b-a22b:free",
+    "name": "Qwen3 235B A22B",
     "provider": "OpenAI Compatible",
     "providerId": "openai-compatible",
     "enabled": true,
