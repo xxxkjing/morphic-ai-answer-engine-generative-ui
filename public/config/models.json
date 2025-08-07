@@ -1,8 +1,8 @@
 {
   "models": [
     {
-    "id": "moonshotai/Kimi-K2-Instruct",
-    "name": "moonshotai/Kimi-K2-Instruct",
+    "id": "kimi-k2:free",
+    "name": "Kimi K2",
     "provider": "OpenAI Compatible",
     "providerId": "openai-compatible",
     "enabled": true,
