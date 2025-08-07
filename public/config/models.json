@@ -24,7 +24,6 @@
     "enabled": true,
     "toolCallType": "manual"
   },
-    "models": [
     {
     "id": "qwen/qwen3-235b-a22b:free",
     "name": "Qwen3 235B A22B",
