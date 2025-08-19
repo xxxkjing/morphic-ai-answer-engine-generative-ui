@@ -1,8 +1,8 @@
 {
   "models": [
     {
-      "id": "gemini-2.5-flash-lite",
-      "name": "Gemini 2.5 Flash lite",
+      "id": "gemini-2.5-flash",
+      "name": "Gemini 2.5 Flash",
       "provider": "Google Generative AI",
       "providerId": "google",
       "enabled": true,
