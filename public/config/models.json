@@ -17,6 +17,6 @@
       "enabled": true,
       "toolCallType": "manual",
       "toolCallModel": "gemini-2.0-flash"
-    },
+    }
   ]
 }
