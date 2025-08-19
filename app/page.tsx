@@ -1,10 +1,9 @@
 // app/page.tsx
-import { redirect } from 'next/navigation'
 import { generateId } from 'ai'
+import { redirect } from 'next/navigation'
 
 import { createClient } from '@/lib/supabase/server'
 import { getModels } from '@/lib/config/models'
-
 import { Chat } from '@/components/chat'
 
 export default async function Page() {
