@@ -1,8 +1,8 @@
 'use client'
 
-import { useState } from 'react'
 import Link from 'next/link'
 import { useRouter } from 'next/navigation'
+import { useState } from 'react'
 
 import { createClient } from '@/lib/supabase/client'
 import { cn } from '@/lib/utils/index'
@@ -15,7 +15,6 @@ import {
   CardHeader,
   CardTitle
 } from '@/components/ui/card'
-import { IconLogo } from '@/components/ui/icons'
 import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
 
@@ -127,11 +126,6 @@ export function SignUpForm({
           </form>
         </CardContent>
       </Card>
-      <div className="text-center text-xs text-muted-foreground">
-        <Link href="/" className="hover:underline">
-          &larr; Back to Home
-        </Link>
-      </div>
     </div>
   )
 }
