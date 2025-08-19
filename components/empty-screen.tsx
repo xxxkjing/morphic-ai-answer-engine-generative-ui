@@ -28,7 +28,7 @@ export function EmptyScreen({
   className?: string
 }) {
   return (
-    <div}>
+    <div>
     </div>
   )
 }
