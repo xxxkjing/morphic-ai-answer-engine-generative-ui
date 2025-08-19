@@ -1,0 +1,8 @@
+{
+      "id": "gemini-2.5-flash",
+      "name": "Gemini 2.5 Flash",
+      "provider": "Google Generative AI",
+      "providerId": "google",
+      "enabled": true,
+      "toolCallType": "manual"
+}
