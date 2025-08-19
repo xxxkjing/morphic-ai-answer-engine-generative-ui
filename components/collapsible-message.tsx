@@ -40,7 +40,7 @@ export function CollapsibleMessage({
         <div className="relative flex flex-col items-center">
           <div className="w-5">
             {role === 'assistant' ? (
-              <IconLogo className="size-5" />
+              <div></div>
             ) : (
               <CurrentUserAvatar />
             )}

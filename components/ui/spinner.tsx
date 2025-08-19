@@ -24,6 +24,5 @@ export const Spinner = ({ className, ...props }: SpinnerProps) => (
 
 export const LogoSpinner = () => (
   <div className="p-4 border border-background">
-    <IconLogo className="w-4 h-4 animate-spin" />
   </div>
 )

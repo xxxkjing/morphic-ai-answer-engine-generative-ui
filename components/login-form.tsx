@@ -81,7 +81,6 @@ export function LoginForm({
       <Card className="w-full max-w-sm">
         <CardHeader className="text-center">
           <CardTitle className="text-2xl flex flex-col items-center justify-center gap-4">
-            <IconLogo className="size-12" />
             Welcome back
           </CardTitle>
           <CardDescription>Sign in to your account</CardDescription>
